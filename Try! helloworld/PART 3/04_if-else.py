@@ -39,4 +39,4 @@ elif mine == "보":
     if yours == "바위":
       print("이겼다")
     else:
-        print("졌다")`
+        print("졌다")
