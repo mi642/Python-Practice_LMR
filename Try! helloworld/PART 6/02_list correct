@@ -1,0 +1,29 @@
+# 첫 번쨰 실습
+list = [1, 2, 3]
+list.append(4)
+print(list)
+
+list2 = [1, 2, 3]
+list3 = [4]
+list4 = list2 + list3
+print(list4)
+
+# 두 번째 실습
+list1 = [1, 2, 3]
+list2 = [4, 5, 6]
+list3 = list1 + list2
+print(list3)
+
+# 세 번쨰 실습
+number = [1, 2, 3, 4, 5]
+if 5 in number:
+    print("5가 있다")
+
+# 네 번째 실습
+list = [1, 2, 3]
+del list[1]
+print(list)
+
+list1 = [1, 2, 3]
+list1.remove(2)
+print(list1)
